@@ -1,0 +1,2 @@
+# Sales-Report-Dashboard-with-Power BI
+This Power BI sales report dashboard provides an interactive and comprehensive view of sales data, incorporating a variety of visualizations including pie charts, funnel charts, bar charts, histograms, column charts, line charts, maps, area charts, and slicers. These elements work together to offer insights into sales performance, trends, and geographical distribution, enabling stakeholders to make data-driven decisions and strategic plans efficiently.
